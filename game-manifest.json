@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "gameId": "12qcsysc5h8i",
+  "title": "ドンぱちFPS_Ⅱ",
+  "versionId": "4f0d5c85-8f9a-4f02-94a0-67360110fbdc",
+  "snapshotAt": "2026-10-21T04:20:03.233Z",
+  "playUrl": "https://gcn-play.com/play/12qcsysc5h8i",
+  "files": [
+    {
+      "path": "README.md",
+      "mime": "text/markdown; charset=utf-8",
+      "bytes": 1869,
+      "sha256": "b1c253a0fc110170e2839fd4f5392522cb4c064bc249cc99ff6d4110313feb96"
+    },
+    {
+      "path": "index.html",
+      "mime": "text/html; charset=utf-8",
+      "bytes": 4326984,
+      "sha256": "458c62dc5e96cdd9d4573b757185e69191b561228aba4e7c90c3cef61e51e787"
+    },
+    {
+      "path": "assets/models/base_core.glb",
+      "mime": "model/gltf-binary",
+      "bytes": 293472,
+      "sha256": "bae4ad31d7232ed27873ad188acb4fdb29974cbb6168c43f636c612cb8dec7f3"
+    },
+    {
+      "path": "assets/models/enemy_drone.glb",
+      "mime": "model/gltf-binary",
+      "bytes": 285528,
+      "sha256": "876816f63bd821f3c31383711ac5721b59216489666460089df7e94aeedccac9"
+    },
+    {
+      "path": "assets/music/bgm_defense.wav",
+      "mime": "audio/wav",
+      "bytes": 1323044,
+      "sha256": "116edd8d4ecf2853844bbc4f6fc683b7d4224ebc757eddd365764213df6d3cf5"
+    },
+    {
+      "path": "assets/sfx/se_base_hit.wav",
+      "mime": "audio/wav",
+      "bytes": 176478,
+      "sha256": "6b2684f0f388085ed55a0fdce2cd2cc27de6a5e517dea51b14bda709c5ba5b30"
+    },
+    {
+      "path": "assets/sfx/se_destroy.wav",
+      "mime": "audio/wav",
+      "bytes": 176478,
+      "sha256": "b3f7f9a9e62ca64ed08b4765d2f8eac10fe07dfaa280fda43783368234df5a47"
+    },
+    {
+      "path": "assets/sfx/se_hit.wav",
+      "mime": "audio/wav",
+      "bytes": 176478,
+      "sha256": "ecad382b9dcee9e3eacf9a3ad879683df522f7fbdf7a3f9ae5ba01f51aa6a160"
+    },
+    {
+      "path": "assets/sfx/se_shot.wav",
+      "mime": "audio/wav",
+      "bytes": 176478,
+      "sha256": "744e0d0aaebd63cd0cc80b7ea21ff57b477c8b47260a34d39884ea69608731ea"
+    }
+  ],
+  "skipped": []
+}
