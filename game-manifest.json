@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "gameId": "12qcsysc5h8i",
-  "title": "無題のゲーム",
+  "title": "ドンぱちFPS_Ⅱ",
   "versionId": "4f0d5c85-8f9a-4f02-94a0-67360110fbdc",
-  "snapshotAt": "2026-10-21T04:09:55.228Z",
+  "snapshotAt": "2026-10-21T04:20:03.233Z",
   "playUrl": "https://gcn-play.com/play/12qcsysc5h8i",
   "files": [
     {
       "path": "README.md",
       "mime": "text/markdown; charset=utf-8",
-      "bytes": 1868,
-      "sha256": "33b240ed99f1e89cbb80c89e927f2a3b4d13f96b214e9c5655ae563e33519bf8"
+      "bytes": 1869,
+      "sha256": "b1c253a0fc110170e2839fd4f5392522cb4c064bc249cc99ff6d4110313feb96"
     },
     {
       "path": "index.html",
